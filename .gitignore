@@ -17,3 +17,10 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# Claude Code
+.claude/*.backup
+
+# Generated documentation
+RECOMMENDATIONS.md
+RECOMMENDATIONS.md.backup
